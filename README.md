@@ -3,19 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindauthsuka97&label=Profile%20views&color=0e75b6&style=flat" alt="kavindauthsuka97" /> </p>
 
-- 🌱 I’m currently learning **Large Language Models, MLOps, Advanced Statistical Modeling**
+- 🔭 I’m currently working on **Maritime Intelligence and Medical AI Projects**
 
 - 👯 I’m looking to collaborate on **Machine Learning & AI Projects**
 
 - 🤝 I’m looking for help with **Advanced Deep Learning Architectures**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kavindauthsuka97, https://scholar.google.com/citations?user=wJB33aUAAAAJ&hl=en](https://github.com/kavindauthsuka97, https://scholar.google.com/citations?user=wJB33aUAAAAJ&hl=en)
+- 👨‍💻 All of my projects are available at [https://github.com/kavindauthsuka97](https://github.com/kavindauthsuka97)
 
 - 💬 Ask me about **Python, R, SQL, Machine Learning, Data Visualization, Statistical Analysis**
 
-- 📫 How to reach me **ku.waduge@gmail.com , www.linkedin.com/in/kavinda-waduge**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rP0_QOFtOYzd8UphvvbxUNfPC4kSk40x/view?usp=sharing](https://drive.google.com/file/d/1rP0_QOFtOYzd8UphvvbxUNfPC4kSk40x/view?usp=sharing)
+- 📫 How to reach me **ku.waduge@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
