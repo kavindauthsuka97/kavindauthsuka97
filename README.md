@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kavindauthsuka97](https://github.com/kavindauthsuka97)
 
-- 💬 Ask me about **Python, R, SQL, Machine Learning, Data Visualization, Statistical Analysis**
+- 💬 Ask me about **Python, R, SQL, Machine Learning, Data Visualization, Statistical Analysis, Agentic AI**
 
 - 📫 How to reach me **ku.waduge@gmail.com**
 
